@@ -17,3 +17,4 @@ $ docker run --name genericuniversity -itd --rm -p 80:8000 busk3r/genericunivers
 $ docker exec genericuniversity php /root/Generic-University/artisan serve --host 0.0.0.0
 
 Go to 127.0.0.1 or system IP you're using.
+```abc```
