@@ -1,0 +1,6 @@
+# Tools 
+Postman
+
+# Practice Labs
+VAmPI : https://github.com/erev0s/VAmPI : https://www.youtube.com/watch?v=xDotz4iOVNQ&list=LL&index=10
+Generic-University (by insider-phd) : https://hub.docker.com/r/busk3r/genericuniversity : https://youtu.be/Clu3-5TFdw0
